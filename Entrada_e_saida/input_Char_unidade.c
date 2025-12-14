@@ -1,4 +1,4 @@
-#include <stdio.h> //Biblioteca IO
+#include <stdio.h> //Biblioteca IO.
 
 int main() {
   char UniChar;
